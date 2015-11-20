@@ -1,0 +1,4 @@
+F:\Ebackup\Fakhruddin\RepositoryPatternWithUnityOfWorkDI\RepositoryPatternWithUnitOfWorkDI.Core\bin\Debug\RepositoryPatternWithUnitOfWorkDI.Core.dll
+F:\Ebackup\Fakhruddin\RepositoryPatternWithUnityOfWorkDI\RepositoryPatternWithUnitOfWorkDI.Core\bin\Debug\RepositoryPatternWithUnitOfWorkDI.Core.pdb
+F:\Ebackup\Fakhruddin\RepositoryPatternWithUnityOfWorkDI\RepositoryPatternWithUnitOfWorkDI.Core\obj\Debug\RepositoryPatternWithUnitOfWorkDI.Core.dll
+F:\Ebackup\Fakhruddin\RepositoryPatternWithUnityOfWorkDI\RepositoryPatternWithUnitOfWorkDI.Core\obj\Debug\RepositoryPatternWithUnitOfWorkDI.Core.pdb
